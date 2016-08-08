@@ -1,0 +1,30 @@
+_repo: The-Virginia-Housewife--13-Or-Methodical-Cook_12519
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Randolph, Mary
+    aliases:
+    - Mann, Molly
+    - Mann, Mary
+    - Randolph, Molly
+    birthdate: 1762
+    deathdate: 1828
+    gutenberg_agent_id: '4404'
+    url: http://www.gutenberg.org/2009/agents/4404
+description: ''
+gutenberg_bookshelf: Cookery
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12519'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Cooking, American'
+- !lcsh 'Cooking -- Virginia'
+- GITenberg
+title: "The Virginia Housewife\r\nOr Methodical Cook"
+url: http://www.gutenberg.org/ebooks/12519
