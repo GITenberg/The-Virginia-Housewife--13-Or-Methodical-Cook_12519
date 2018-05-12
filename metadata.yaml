@@ -1,5 +1,8 @@
 _repo: The-Virginia-Housewife--13-Or-Methodical-Cook_12519
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Randolph, Mary
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '4404'
     url: http://www.gutenberg.org/2009/agents/4404
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12519#The-Virginia-Housewife--13-Or-Methodical-Cook
 gutenberg_bookshelf: Cookery
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
